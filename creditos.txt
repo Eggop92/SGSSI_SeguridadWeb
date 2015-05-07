@@ -1,0 +1,12 @@
+Sistemas de gestión de seguridad de sistemas de información
+Proyecto Seguridad Web.
+
+Proyecto para la asignatura de Sistemas de gestión de seguridad de sistemas de información del grado en ingeniería informática de gestión y sistemas de información de la escuela universitaria de ingeniería técnica industrial de Bilbao.
+
+Lenguajes:
+PHP
+MySQL
+
+Autores:
+Jon Ander Fontan
+Egoitz Puerta
